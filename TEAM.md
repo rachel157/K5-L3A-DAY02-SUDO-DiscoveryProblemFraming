@@ -37,25 +37,20 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
-### NguyenHuyHoang-2A202603366
+### HoVaTen-MSSV
 
 **Phần việc phụ trách:**
 
-- Scan problem cá nhân (CP1, CP2), phụ trách xây dựng quy trình As-Is / To-Be của bài toán xếp lịch giải đấu cầu lông và thực hiện kiểm chứng thực tế (phỏng vấn ban tổ chức CLB).
+-
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
-- Đóng góp 8 Problem Ideas trong CP1 và chọn Top 3 Problem Cards (tập trung vào Quản lý giải đấu cầu lông).
-- Trực tiếp vẽ biểu đồ quy trình hiện tại (As-Is) và quy trình tương lai (To-Be) cho hệ thống xếp lịch.
-- Thực hiện phỏng vấn kiểm chứng thực tế theo phương pháp The Mom Test với ban tổ chức CLB cầu lông HUST.
+-
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
-- `report/individual/2A202603366_NguyenHuyHoang.md`
-- Sơ đồ quy trình As-Is/To-Be tại mục quy trình trong báo cáo nhóm `report/team/group_report.md`.
-- Các commit cập nhật file cá nhân và đóng góp nội dung quy trình trên repo chung `SUDO`.
+-
 
 **Điều mình học được từ phần nhóm:**
 
-- Hiểu rõ tầm quan trọng của việc phải đi sâu vào quy trình hiện tại và tìm đúng bottleneck thay vì lao vào nghĩ giải pháp công nghệ (solution-first).
-- Học được cách kết hợp ý kiến đa chiều của các thành viên trong nhóm để hội tụ về một Problem Statement có boundary và metric đo lường rõ ràng.
+-
