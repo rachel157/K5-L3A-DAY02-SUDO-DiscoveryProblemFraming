@@ -145,39 +145,86 @@ Bảng 5 giả định rủi ro cốt lõi của bài toán theo phương pháp 
 
 ---
 
-### 3.2. Kiểm chứng thực tế (The Mom Test) — Phụ trách chính: Phạm Công Dũng
+### 3.2. Kiểm chứng thực tế (The Mom Test — Đạt chuẩn Bonus B2: 5 Interview Snapshots) — Phụ trách chính: Phạm Công Dũng
 
 > **Người phụ trách chính:** **Phạm Công Dũng** (MSSV: `2A202603428`)  
-> **Người hỗ trợ:** Chu Mai Hồng (MSSV: `2A202603377`)
+> **Người hỗ trợ:** Chu Mai Hồng (MSSV: `2A202603377`), Phạm Việt Hưng (MSSV: `2A202603370`)
 
 **Cách đã dùng:**
-- Thực hiện phỏng vấn sâu 3 nhân sự vận hành/helpdesk theo đúng phương pháp **The Mom Test** (Rob Fitzpatrick): hỏi về hành vi quá khứ, chuyện cụ thể đã xảy ra và chi phí thời gian/công sức thật, tuyệt đối không hỏi câu hỏi tương lai hay xin lời khen về ý tưởng.
-- Thực hiện khảo sát nhanh (poll) 6 bạn học/đồng nghiệp từng tiếp nhận hoặc gửi ticket hỗ trợ nội bộ.
+- Thực hiện phỏng vấn sâu **5 nhân sự thực tế** (gồm cả bên tiếp nhận điều phối, bên chuyên môn xử lý và bên gửi yêu cầu) theo đúng 3 nguyên tắc của **The Mom Test** (Rob Fitzpatrick): hỏi về hành vi quá khứ, sự việc cụ thể lần gần nhất đã xảy ra và chi phí thời gian/công sức thật; tuyệt đối không hỏi câu hỏi giả định tương lai hay xin lời khen về ý tưởng AI.
+- Thực hiện khảo sát nhanh (poll) **6 bạn học/đồng nghiệp** từng tiếp nhận hoặc gửi ticket hỗ trợ nội bộ.
 
-**Interview snapshot — Phỏng vấn nhân sự điều phối (Người thứ 2):**
+#### Interview Snapshot #1 — Chuyên viên IT Helpdesk (Bên tiếp nhận & xử lý kỹ thuật)
 
 | Trường | Nội dung |
 |---|---|
-| Người được hỏi (vai trò) | Nhân viên Helpdesk / Vận hành nội bộ (phụ trách điều phối ticket IT & Hành chính tại công ty quy mô ~120 người). |
+| Người được hỏi (vai trò, không ghi tên thật) | Chuyên viên IT Support / Helpdesk tại công ty công nghệ quy mô ~150 nhân sự. |
+| Câu nói đáng nhớ nhất (nguyên văn) | *"Cứ sáng thứ Hai là 10 tin nhắn kiểu 'Anh ơi mạng lag quá' hay 'Phần mềm lỗi rồi', không có nổi một cái ảnh chụp màn hình hay tên phòng, em toàn phải hỏi lại từng người xem đang ngồi tầng mấy, dùng mạng gì mới dám chạy lên."* |
+| Lần gần nhất gặp vấn đề này | Sáng thứ Hai đầu tuần, 4 nhân viên cùng báo không truy cập được thư mục dùng chung nhưng chỉ nhắn 1 câu cụt lủn qua Zalo; mất 20 phút hỏi từng người mới phát hiện chỉ những ai vừa đổi mật khẩu Windows mới bị văng quyền. |
+| Hiện đang xử lý bằng cách nào (workaround)? | Ghim sẵn 1 đoạn văn bản mẫu (cần chụp màn hình + mã tài sản máy + vị trí ngồi) trên Notepad để copy-paste hỏi lại mỗi khi nhận tin nhắn thiếu thông tin. |
+| Mất bao lâu, bao lần? | Xử lý 15–20 ca IT/ngày; khoảng 1/3 số ca phải nhắn hỏi lại thông tin cơ bản, mất 3–5 phút chờ phản hồi cho mỗi ca trước khi bắt tay vào sửa. |
+| Insight / opportunity rút ra | Điểm nghẽn lớn nhất trước khi xử lý kỹ thuật là **thiếu thông tin bối cảnh tối thiểu** (mã lỗi, ảnh màn hình, thiết bị); nếu kiểm tra và nhắc bổ sung ngay lúc gửi sẽ giảm mạnh thời gian hỏi đi hỏi lại. |
+
+#### Interview Snapshot #2 — Nhân sự Điều phối Vận hành / Admin Helpdesk (Actor trung tâm)
+
+| Trường | Nội dung |
+|---|---|
+| Người được hỏi (vai trò, không ghi tên thật) | Nhân viên Helpdesk / Vận hành nội bộ (phụ trách điều phối chung ticket IT, Hành chính & Nhân sự tại công ty ~120 người). |
 | Câu nói đáng nhớ nhất (nguyên văn) | *"Em sợ nhất không phải là việc trả lời tin nhắn, mà là chuyển nhầm một sự cố mạng khẩn cấp của sếp sang bên Hành chính rồi bị đá qua đá lại, đến lúc sếp giục mới vỡ lẽ thì em là đứa chịu đòn giải trình đầu tiên!"* |
 | Lần gần nhất gặp vấn đề này | Sáng thứ Năm tuần trước, một nhân viên nhắn: 'Máy tính không vào được hệ thống, cần gấp!', không ghi mã máy hay phần mềm nào. Điều phối viên phải nhắn lại 2 lần mới biết là quên mật khẩu VPN nội bộ, mất gần 15 phút luồng giao tiếp qua lại. |
 | Hiện đang xử lý bằng cách nào (workaround)? | Mở cùng lúc 3 cửa sổ chat (Slack, Zalo, Email) và gõ tay vào 1 file Google Sheets để theo dõi, tự nhớ danh sách ai phụ trách mảng nào để tag tên. |
-| Mất bao lâu, bao lần? | Mất trung bình 3–4 phút/yêu cầu; tiếp nhận 25–35 yêu cầu mỗi ngày, chiếm trọn hơn 1.5 tiếng đầu mỗi buổi sáng. |
-| Insight / opportunity rút ra | Nỗi sợ lớn nhất của người điều phối là 'chuyển nhầm' và 'trách nhiệm giải trình'. Do đó, hệ thống tuyệt đối không được tự động chuyển thẳng mà luôn cần con người kiểm tra nhanh và bấm duyệt (Human-in-the-loop). Đồng thời, các yêu cầu chuẩn (pass, đơn từ) chỉ cần Form + Rule. |
+| Mất bao lâu, bao lần? | Mất trung bình 3.5 phút/yêu cầu; tiếp nhận ~30 yêu cầu mỗi ngày (~105 phút/ngày), chiếm trọn hơn 1.5 tiếng đầu mỗi buổi sáng. |
+| Insight / opportunity rút ra | Nỗi sợ lớn nhất của người điều phối là **'chuyển nhầm' và 'trách nhiệm giải trình'**. Do đó, hệ thống tuyệt đối không được tự động chuyển thẳng (Autonomous Agent) mà luôn cần con người kiểm tra nhanh và bấm duyệt (Human-in-the-loop). |
 
-**Tổng hợp tín hiệu xác nhận & phản bác:**
+#### Interview Snapshot #3 — Chuyên viên Hành chính - Nhân sự (Bên nhận yêu cầu Admin & HR)
+
+| Trường | Nội dung |
+|---|---|
+| Người được hỏi (vai trò, không ghi tên thật) | Chuyên viên Hành chính - Nhân sự (HR & Admin Generalist) tại doanh nghiệp dịch vụ ~90 người. |
+| Câu nói đáng nhớ nhất (nguyên văn) | *"Mấy việc xin văn phòng phẩm, đặt phòng họp hay xin nghỉ phép thì form có sẵn rồi, các bạn tích 30 giây là xong; chỉ đau đầu mấy ca lưng chừng kiểu 'Em mới chuyển chỗ ngồi không cắm được màn hình phụ với thiếu ổ điện' — đẩy sang IT thì IT bảo ổ điện của Hành chính, đẩy về Hành chính thì bảo cáp màn hình của IT."* |
+| Lần gần nhất gặp vấn đề này | Tuần trước có 3 yêu cầu chuẩn bị chỗ ngồi cho nhân sự điều chuyển nội bộ bị chuyển lòng vòng giữa Admin và IT suốt cả buổi sáng vì mô tả gộp cả thiết bị mạng lẫn bàn ghế. |
+| Hiện đang xử lý bằng cách nào (workaround)? | Tạo 1 group chat chung có cả IT và Admin, ca nào lưng chừng thì forward tin nhắn vào đó để hai bên tự nhận. |
+| Mất bao lâu, bao lần? | Các ca cố định mất < 30 giây nhờ Google Form; nhưng các ca mô tả tự do giáp ranh (chiếm ~15% tổng yêu cầu) mất 10–15 phút trao đổi qua lại mới chốt được đầu mối. |
+| Insight / opportunity rút ra | **Tín hiệu phản bác cực kỳ quan trọng:** Các yêu cầu thủ tục cố định (~40% số ca như văn phòng phẩm, đặt phòng, nghỉ phép) đã chạy tốt bằng Form + Rule, hoàn toàn không cần AI. AI chỉ có giá trị ở các ca mô tả sự cố tự do hoặc giáp ranh nhiều bộ phận. Also, các yêu cầu HR nhạy cảm (lương thưởng, kỷ luật) không được phép đưa qua công cụ bên thứ ba. |
+
+#### Interview Snapshot #4 — Trưởng nhóm Kỹ thuật (Người duyệt & chịu ảnh hưởng bởi SLA)
+
+| Trường | Nội dung |
+|---|---|
+| Người được hỏi (vai trò, không ghi tên thật) | Team Lead Kỹ thuật / Hạ tầng nội bộ tại công ty phần mềm ~180 nhân sự. |
+| Câu nói đáng nhớ nhất (nguyên văn) | *"Có hôm cả phòng họp khách hàng bị mất kết nối máy chiếu mà ticket lại nằm ở mức 'Bình thường' dưới đáy hàng đợi cùng với mấy ca xin cài thêm font chữ, đến lúc giám đốc gọi điện thẳng cho anh thì đã trễ mất 20 phút họp của khách."* |
+| Lần gần nhất gặp vấn đề này | Thứ Ba tuần trước, sự cố lỗi xác thực tài khoản demo cho khách hàng bị gán nhầm mức ưu tiên thấp do người gửi chỉ viết ngắn gọn 'Tài khoản test không đăng nhập được', không ai nhận ra đó là ca đang họp trực tiếp với khách. |
+| Hiện đang xử lý bằng cách nào (workaround)? | Dặn nhân sự điều phối nếu thấy tin nhắn nào có chữ 'khách hàng', 'phòng họp VIP', 'sập server' thì phải gọi điện hoặc tag khẩn cấp ngay. |
+| Mất bao lâu, bao lần? | Mỗi tháng xảy ra 2–3 vụ sự cố khẩn cấp (`P1`) bị phân loại nhầm thành bình thường (`P3`), mỗi lần làm trễ SLA từ 15–30 phút. |
+| Insight / opportunity rút ra | Bỏ sót mức độ khẩn cấp (**False Negative — gán nhãn Thường cho sự cố Khẩn cấp**) gây hậu quả nặng nề hơn rất nhiều so với báo nhầm (**False Positive**). Cần thiết kế AI gắn cờ cảnh báo ưu tiên và có **Ngưỡng dừng an toàn tức thời (Kill-Switch)** nếu lọt sự cố `P1`. |
+
+#### Interview Snapshot #5 — Nhân viên Kinh doanh / Vận hành (Người gửi yêu cầu hỗ trợ)
+
+| Trường | Nội dung |
+|---|---|
+| Người được hỏi (vai trò, không ghi tên thật) | Chuyên viên Kinh doanh (Account Executive) — người thường xuyên gửi yêu cầu hỗ trợ IT & Hành chính. |
+| Câu nói đáng nhớ nhất (nguyên văn) | *"Lúc máy đang treo hoặc cần in gấp hợp đồng cho khách mà bắt em mở portal chọn qua 5 tầng danh mục kỹ thuật kiểu 'Hạ tầng mạng / Giao thức VPN / Lỗi DNS' là em chịu chết, em chỉ biết nhắn thẳng vào khung chat là không mở được file thôi!"* |
+| Lần gần nhất gặp vấn đề này | Chiều thứ Sáu tuần trước, cần in gấp phụ lục hợp đồng nhưng máy in báo đèn đỏ; mở form nội bộ thấy hơn 20 mã danh mục kỹ thuật không hiểu gì nên quay ra nhắn tin riêng cho bạn Admin, sau đó bạn Admin lại phải hỏi lại mã máy in rồi chuyển tiếp cho IT. |
+| Hiện đang xử lý bằng cách nào (workaround)? | Nhắn tin tự do theo ngôn ngữ đời thường vào kênh hỗ trợ chung hoặc nhắn trực tiếp cho người quen ở phòng Admin/IT. |
+| Mất bao lâu, bao lần? | Gửi 2–3 yêu cầu/tuần; trung bình phải chờ 15–20 phút mới được chuyển đúng người xử lý nếu mô tả ban đầu bị thiếu thông tin. |
+| Insight / opportunity rút ra | Người gửi **không có kiến thức chuyên môn để tự chọn cây danh mục kỹ thuật sâu**, họ luôn có nhu cầu mô tả tự do bằng ngôn ngữ tự nhiên khi gặp sự cố bất thường. Giải pháp cần giữ Form thật gọn cho các việc quen thuộc và để AI đọc hiểu mô tả tự do giúp họ. |
+
+#### Tổng hợp tín hiệu xác nhận & phản bác
 
 | Nguồn | Số mẫu | Tín hiệu xác nhận | Tín hiệu phản bác |
 |---|---:|---|---|
-| Phỏng vấn sâu (The Mom Test) | 3 | - 3/3 xác nhận mất nhiều thời gian đọc hiểu mô tả thiếu ngữ cảnh (~25% phải nhắn hỏi lại).<br>- 3/3 khẳng định việc chuyển nhầm gây ức chế lớn cho các bộ phận chuyên môn. | - 1/3 cho biết các yêu cầu xin văn phòng phẩm và đặt phòng họp thì nhân viên chọn form rất nhanh, hoàn toàn không cần AI đọc hiểu. |
-| Khảo sát nhanh (Poll) | 6 | - 5/6 từng gặp cảnh gửi yêu cầu xong bị chuyển lòng vòng giữa IT và Admin do mô tả ngắn gọn. | - 2/6 cho rằng chỉ cần công ty ban hành quy định bắt buộc điền form là đủ, không cần công nghệ phức tạp. |
+| **Phỏng vấn sâu (The Mom Test)** | **5** | - 5/5 xác nhận điểm nghẽn nằm ở mô tả tự do thiếu bối cảnh (~25% phải hỏi lại) và phân loại sai đối với sự cố bất thường/giáp ranh (~12% chuyển nhầm).<br>- Xác nhận nỗi sợ lớn nhất của điều phối viên là trách nhiệm giải trình khi chuyển nhầm hoặc bỏ sót sự cố khẩn cấp `P1`. | - **Phản bác tự động hóa toàn bộ:** ~40% yêu cầu cố định (văn phòng phẩm, đặt phòng, nghỉ phép) chỉ cần Form + Rule là xong trong 30 giây, không cần AI.<br>- **Phản bác mức Agent:** Điều phối viên và HR từ chối để AI tự động chuyển thẳng hoặc đụng vào dữ liệu nhân sự nhạy cảm. |
+| **Khảo sát nhanh (Poll)** | **6** | - 5/6 từng gặp cảnh gửi yêu cầu xong bị hỏi lại nhiều lần hoặc chuyển lòng vòng giữa IT và Admin. | - 2/6 cho rằng với các thủ tục hành chính thông thường thì quy định điền Form bắt buộc là đủ. |
 
-**Nhóm đã sửa problem thế nào sau kiểm chứng:**
-1. **Thu hẹp bài toán:** Không cố xây dựng một "Agent AI toàn năng tự động tiếp nhận và giải quyết ticket từ A-Z" (tránh bẫy Solution-first).
-2. **Phân tách luồng xử lý (Hybrid Architecture):**
-   - Với các yêu cầu cố định lặp lại (~40% số ca như cấp lại pass, đơn nghỉ phép, văn phòng phẩm): dùng **Form có trường bắt buộc + Rule phân luồng tự động (No AI)**.
-   - Với các yêu cầu mô tả sự cố tự do (~60% số ca): dùng **AI (LLM trong Workflow)** để kiểm tra thông tin thiếu, tóm tắt 1 câu và gợi ý nhãn phân loại.
-3. **Bắt buộc có bước người duyệt (HITL):** Giữ điều phối viên ở bước kiểm tra và bấm duyệt cuối cùng trước khi chuyển tiếp để giải tỏa hoàn toàn nỗi sợ chịu trách nhiệm giải trình khi AI chuyển sai.
+#### Nhóm đã sửa Problem, Metric và Quyết định thế nào sau kiểm chứng
+
+1. **Sửa Problem & Kiến trúc giải pháp (Từ "AI toàn phần" sang "Hybrid Rule + Workflow AI + HITL"):**
+   - Từ bỏ hoàn toàn ý định ban đầu là xây dựng một "Agent AI tự động tiếp nhận và giải quyết mọi ticket".
+   - Tách quy trình thành 2 nhánh rõ rệt dựa trên Snapshot #3 và #5: nhánh **Rule (No AI)** tự động định tuyến thẳng ~40% yêu cầu thuộc danh mục cố định; nhánh **AI trong Workflow** chỉ xử lý ~60% yêu cầu mô tả sự cố tự do để kiểm tra thiếu thông tin, tóm tắt 1 câu và gợi ý nhãn cho điều phối viên bấm duyệt (**HITL** — giải quyết triệt để nỗi sợ ở Snapshot #2).
+2. **Sửa Success Metric (Bổ sung Metric đo chất lượng gợi ý của AI):**
+   - Từ phản hồi của điều phối viên (Snapshot #2), nhóm nhận ra nếu AI gợi ý sai quá nhiều thì điều phối viên phải sửa lại nhãn còn tốn thời gian hơn cũ; do đó nhóm bổ sung chỉ số thứ 4 vào Problem Statement v1 (Mục 7): **Tỉ lệ điều phối viên đồng ý với nhãn AI gợi ý đạt `≥ 80%`**.
+3. **Sửa Boundary & Quyết định Pilot (Tách dữ liệu HR và thêm Kill-Switch cho sự cố P1):**
+   - Từ Snapshot #3 (lo ngại bảo mật dữ liệu HR) và Snapshot #4 (hậu quả trễ SLA của sự cố khẩn cấp `P1`), nhóm quyết định ở Mục 8: **chỉ chạy Pilot 2 tuần cho mảng `IT Support` và `Hành chính`** (tách mảng `HR` đi bằng Rule nội bộ), đồng thời thiết lập **Ngưỡng dừng an toàn tức thời (Safety Kill-Switch)** nếu bất kỳ sự cố `P1` nào bị AI phân loại nhầm thành `P3`.
 
 ---
 
@@ -396,10 +443,29 @@ Bài toán của nhóm được định vị tại ô: **Độ mơ hồ cao ở 
 
 | # | Tiêu chí | Đạt khi | Không đạt khi |
 |---|---|---|---|
-| 1 | **Độ chính xác nhãn gợi ý (Category Accuracy)** | AI gợi ý đúng bộ phận xử lý đạt **≥ 80%** so với thực tế điều phối viên duyệt trên bộ dữ liệu kiểm thử. | AI gợi ý sai bộ phận xử lý vượt quá 20% tổng số ca test. |
-| 2 | **Khả năng phát hiện thông tin thiếu (Missing Info Detection)** | Nhận diện chính xác **100% các yêu cầu thiếu bối cảnh cốt lõi** để kích hoạt câu hỏi bổ sung. | Bỏ sót các trường hợp thiếu thông tin bắt buộc, khiến điều phối viên vẫn phải hỏi lại thủ công. |
-| 3 | **Độ trễ xử lý (Latency)** | Thời gian phản hồi phân tích của AI **dưới 3 giây** kể từ khi nhận request. | Thời gian phản hồi kéo dài trên 5 giây, gây gián đoạn luồng thao tác của điều phối viên. |
-| 4 | **Tuân thủ Boundary** | Các yêu cầu có độ tự tin thấp (< 85%) tuyệt đối **không tự động chuyển** mà phải qua điều phối viên duyệt (tuân thủ **100%**). | AI tự động chuyển hoặc tự xử lý các ca có độ tự tin thấp mà không cần con người duyệt. |
+| 1 | **Độ chính xác nhãn gợi ý (Category Accuracy)** | AI gợi ý đúng bộ phận xử lý (`IT` / `Hành chính` / `HR`) và mức ưu tiên (`P1-Khẩn cấp` / `P2-Cao` / `P3-Thường`) đạt **≥ 80%** so với nhãn điều phối viên duyệt trên bộ dữ liệu kiểm thử. | AI gợi ý sai bộ phận xử lý vượt quá 20% tổng số ca test hoặc phân loại nhầm sự cố `P1` thành `P3`. |
+| 2 | **Khả năng phát hiện thông tin thiếu (Missing Info Detection)** | Nhận diện chính xác **100% các yêu cầu thiếu bối cảnh cốt lõi** (vị trí/phòng, thiết bị/phần mềm, mức độ ảnh hưởng) để sinh câu hỏi nhắc bổ sung sát ngữ cảnh. | Bỏ sót các trường hợp thiếu thông tin bắt buộc khiến điều phối viên vẫn phải nhắn hỏi lại thủ công, hoặc hỏi lại cả những thông tin người gửi đã viết rõ. |
+| 3 | **Độ trễ xử lý (Latency)** | Thời gian phản hồi phân tích của AI **dưới 3 giây** kể từ khi nhận request và trả về đúng cấu trúc JSON chuẩn. | Thời gian phản hồi kéo dài trên 5 giây hoặc trả về lỗi định dạng gây gián đoạn luồng thao tác của điều phối viên. |
+| 4 | **Tuân thủ Boundary & Fallback** | 100% yêu cầu có độ tự tin `< 85%`, yêu cầu khẩn cấp `P1` hoặc nhạy cảm (`HR`/`Tài chính`) được **gắn cờ bắt buộc điều phối viên duyệt / đẩy về hàng đợi Fallback**, tuyệt đối không tự đóng hoặc tự chuyển thẳng. | AI tự động chuyển thẳng ca có độ tự tin thấp/nhạy cảm hoặc tự ý trả lời/đóng ticket mà không qua con người duyệt. |
+
+---
+
+### 7.4. Bộ dữ liệu Eval mẫu — 10 cặp Input / Đầu ra mong đợi (Đạt chuẩn Bonus B3)
+
+Bảng dưới đây gồm **10 cặp Input thực tế và Đầu ra mong đợi (Expected Output)** đại diện cho các tình huống điển hình và ca biên (edge cases) của bước AI trong Workflow, mỗi cặp được chấm trực tiếp theo 4 tiêu chí đánh giá (TC1 → TC4) ở Mục 7.3:
+
+| # | Input thực tế từ người gửi (Mô tả tự do + Trường Form cơ bản) | Đầu ra mong đợi từ bước AI trong Workflow (`Đủ tin?` · `Tóm tắt 1 câu` · `Bộ phận` · `Ưu tiên` · `Độ tự tin` · `Hành động/Gợi ý hỏi thêm`) | Chấm theo 4 tiêu chí Eval của nhóm (TC1, TC2, TC3, TC4) |
+|---:|---|---|---|
+| **1** | **[Kênh chung]** *"Mạng Wifi tầng 3 khu vực phòng Sales bị mất kết nối hoàn toàn từ 9h00 sáng nay, cả team 15 người đang không gọi được cho khách hàng!"* | - **Đủ thông tin:** `Có`<br>- **Tóm tắt:** Sự cố mất kết nối Wifi toàn bộ khu vực Sales tầng 3 ảnh hưởng 15 nhân sự đang làm việc với khách.<br>- **Nhãn gợi ý:** Bộ phận `IT Support` · Ưu tiên `P1 - Khẩn cấp`<br>- **Độ tự tin:** `96%`<br>- **Luồng xử lý:** Gắn cờ đỏ `P1` nổi bật trên màn hình để Điều phối viên bấm duyệt chuyển ngay cho IT. | - **TC1 (Accuracy):** Đạt (Đúng `IT` + `P1`).<br>- **TC2 (Missing Info):** Đạt (Đã đủ vị trí tầng 3, số người ảnh hưởng, không hỏi thừa).<br>- **TC3 (Latency):** Đạt (< 2s).<br>- **TC4 (Boundary):** Đạt (Ca `P1` bắt buộc qua người duyệt, không tự đóng). |
+| **2** | **[Form sự cố]** *"Máy tính của em tự nhiên không vào được phần mềm kế toán, anh chị xem giúp em với ạ."* (Người gửi: Lan — Phòng Kế toán) | - **Đủ thông tin:** `Không` *(Thiếu: tên phần mềm cụ thể, thông báo lỗi/ảnh màn hình, mã máy)*<br>- **Tóm tắt:** Nhân viên Kế toán báo không truy cập được phần mềm nghiệp vụ nhưng chưa rõ mã lỗi.<br>- **Nhãn gợi ý:** Bộ phận `IT Support` · Ưu tiên `P2 - Cao`<br>- **Độ tự tin:** `88%`<br>- **Câu hỏi bổ sung gợi ý:** *"Bạn vui lòng cho biết tên phần mềm kế toán (MISA/SAP...) và gửi kèm ảnh chụp thông báo lỗi trên màn hình nhé."* | - **TC1 (Accuracy):** Đạt (Đúng `IT` + `P2`).<br>- **TC2 (Missing Info):** Đạt (Phát hiện đúng thông tin thiếu và sinh câu hỏi sát ngữ cảnh).<br>- **TC3 (Latency):** Đạt (< 2.5s).<br>- **TC4 (Boundary):** Đạt (Giữ ở bước chờ bổ sung & điều phối viên duyệt). |
+| **3** | **[Kênh chung]** *"Điều hòa phòng họp lớn Lầu 4 đang bị chảy nước xuống bàn họp, lúc 14h chiều nay bên em có lịch đón đối tác ở phòng này."* | - **Đủ thông tin:** `Có`<br>- **Tóm tắt:** Điều hòa phòng họp lớn Lầu 4 bị rò nước trước giờ đón đối tác lúc 14h.<br>- **Nhãn gợi ý:** Bộ phận `Hành chính - Văn phòng` · Ưu tiên `P1 - Khẩn cấp`<br>- **Độ tự tin:** `95%`<br>- **Luồng xử lý:** Cảnh báo ưu tiên cao cho Điều phối viên duyệt chuyển bộ phận Hành chính/Tòa nhà xử lý trước 14h. | - **TC1 (Accuracy):** Đạt (Đúng `Hành chính` + `P1`).<br>- **TC2 (Missing Info):** Đạt (Đã rõ phòng họp Lầu 4, hiện tượng và mốc giờ 14h).<br>- **TC3 (Latency):** Đạt (< 2s).<br>- **TC4 (Boundary):** Đạt (Không tự đóng, đẩy duyệt ưu tiên). |
+| **4** | **[Form sự cố]** *"Thẻ từ của em sáng nay quẹt ở cửa kính tầng 2 không kêu tít, mà bấm chấm công vân tay ở máy bên cạnh vẫn nhận bình thường."* | - **Đủ thông tin:** `Có`<br>- **Tóm tắt:** Thẻ từ nhân viên không mở được cửa kiểm soát tầng 2 dù máy chấm công vân tay vẫn hoạt động.<br>- **Nhãn gợi ý:** Bộ phận `Hành chính - Văn phòng` *(phối hợp `IT`)* · Ưu tiên `P3 - Thường`<br>- **Độ tự tin:** `82%` *(< 85% do giáp ranh giữa quản lý thẻ Hành chính và đầu đọc từ IT)*<br>- **Luồng xử lý:** Do độ tự tin `< 85%`, kích hoạt **Fallback** gắn cờ vàng để Điều phối viên quyết định đầu mối chính. | - **TC1 (Accuracy):** Đạt (Nhận diện đúng ca giáp ranh `Hành chính`/`IT`).<br>- **TC2 (Missing Info):** Đạt (Thông tin triệu chứng đã rõ).<br>- **TC3 (Latency):** Đạt (< 2.5s).<br>- **TC4 (Boundary):** Đạt (**Tuân thủ 100% ngưỡng `< 85%` đẩy về Fallback chờ người duyệt**). |
+| **5** | **[Form sự cố]** *"Anh chị kiểm tra lại giúp em bảng tính lương tháng 10, phần phụ cấp làm thêm giờ và khấu trừ thuế TNCN của em đang bị lệch khoảng 1.2 triệu."* | - **Đủ thông tin:** `Có`<br>- **Tóm tắt:** Yêu cầu tra soát dữ liệu nhạy cảm về bảng lương và thuế TNCN tháng 10.<br>- **Nhãn gợi ý:** Bộ phận `Nhân sự (HR - C&B)` · Ưu tiên `P2 - Cao`<br>- **Độ tự tin:** `97%`<br>- **Luồng xử lý:** Gắn nhãn **[Dữ liệu nhạy cảm HR]** — khóa quyền xem trên bảng chung, chỉ chuyển qua luồng bảo mật về HR sau khi xác nhận. | - **TC1 (Accuracy):** Đạt (Đúng `HR`).<br>- **TC2 (Missing Info):** Đạt (Đã rõ kỳ lương tháng 10 và khoản mục lệch).<br>- **TC3 (Latency):** Đạt (< 2s).<br>- **TC4 (Boundary):** Đạt (**Tuân thủ Boundary bảo mật dữ liệu HR nhạy cảm**). |
+| **6** | **[Kênh chung]** *"Máy in ở góc hành lang lại báo đèn đỏ nhấp nháy không in được rồi ạ."* (Không ghi tầng hay mã máy in) | - **Đủ thông tin:** `Không` *(Thiếu: vị trí tầng/khu vực của máy in, tình trạng kẹt giấy hay hết mực)*<br>- **Tóm tắt:** Báo lỗi máy in nhấp nháy đèn đỏ nhưng chưa xác định được vị trí tầng và mã máy.<br>- **Nhãn gợi ý:** Bộ phận `IT Support` · Ưu tiên `P3 - Thường`<br>- **Độ tự tin:** `86%`<br>- **Câu hỏi bổ sung gợi ý:** *"Bạn đang nói tới máy in ở tầng mấy / khu vực phòng nào, và màn hình máy in có hiện thông báo kẹt giấy hay hết mực không?"* | - **TC1 (Accuracy):** Đạt (Đúng `IT` + `P3`).<br>- **TC2 (Missing Info):** Đạt (Bắt trúng lỗi kinh điển quên ghi vị trí máy in).<br>- **TC3 (Latency):** Đạt (< 2s).<br>- **TC4 (Boundary):** Đạt (Nhắc bổ sung thông tin, điều phối viên duyệt). |
+| **7** | **[Form sự cố]** *"Thứ Hai tuần tới (16/11) team Marketing có 2 bạn thực tập sinh mới vào làm, nhờ chuẩn bị giúp 2 bộ bàn ghế ở dãy MKT tầng 3 và cấp 2 email công ty + tài khoản Jira."* | - **Đủ thông tin:** `Không` *(Thiếu: họ tên đầy đủ và email cá nhân/SĐT của 2 thực tập sinh để IT tạo tài khoản)*<br>- **Tóm tắt:** Yêu cầu liên bộ phận chuẩn bị chỗ ngồi (Hành chính) và cấp tài khoản email/Jira (IT) cho 2 TTS mới ngày 16/11.<br>- **Nhãn gợi ý:** Tách 2 đầu việc cho `IT Support` & `Hành chính` · Ưu tiên `P3 - Thường`<br>- **Độ tự tin:** `90%`<br>- **Câu hỏi bổ sung gợi ý:** *"Vui lòng bổ sung Họ tên đầy đủ và SĐT/Email cá nhân của 2 bạn thực tập sinh để IT khởi tạo tài khoản."* | - **TC1 (Accuracy):** Đạt (Nhận diện đúng yêu cầu kép cần cả `IT` và `Hành chính`).<br>- **TC2 (Missing Info):** Đạt (Phát hiện thiếu thông tin định danh người mới).<br>- **TC3 (Latency):** Đạt (< 3s).<br>- **TC4 (Boundary):** Đạt (Gợi ý tách ticket để điều phối viên bấm duyệt). |
+| **8** | **[Kênh chung — viết tắt/tiếng lóng]** *"lap e đơ cứng màn xanh chết chóc r, đag làm dở file thầu chiều nộp sếp, cứu gấp!!!"* | - **Đủ thông tin:** `Không` *(Thiếu: vị trí ngồi hiện tại hoặc SĐT liên hệ trực tiếp để IT tiếp cận ngay)*<br>- **Tóm tắt:** Laptop nhân viên bị lỗi màn hình xanh (BSOD) khi đang làm hồ sơ thầu cần nộp gấp trong chiều nay.<br>- **Nhãn gợi ý:** Bộ phận `IT Support` · Ưu tiên `P1 - Khẩn cấp`<br>- **Độ tự tin:** `93%`<br>- **Câu hỏi bổ sung & Luồng xử lý:** Gắn cờ `P1` cho điều phối viên duyệt ngay, đồng thời hỏi nhanh: *"Bạn đang ngồi ở tầng/phòng nào để IT mang máy dự phòng xuống hỗ trợ ngay?"* | - **TC1 (Accuracy):** Đạt (Hiểu đúng tiếng lóng 'màn xanh chết chóc' = BSOD và ngữ cảnh 'file thầu chiều nộp' = `P1`).<br>- **TC2 (Missing Info):** Đạt (Hỏi đúng vị trí để cứu hộ tại chỗ).<br>- **TC3 (Latency):** Đạt (< 2.5s).<br>- **TC4 (Boundary):** Đạt (Ưu tiên cảnh báo người duyệt ngay lập tức). |
+| **9** | **[Form sự cố — mô tả cực kỳ mơ hồ]** *"Anh chị ơi hỗ trợ giúp em cái vụ hôm qua em có trao đổi với anh Nam nhé, em cảm ơn!"* | - **Đủ thông tin:** `Không` *(Thiếu toàn bộ ngữ cảnh: vấn đề gì, thuộc mảng nào, anh Nam bộ phận nào)*<br>- **Tóm tắt:** Yêu cầu không rõ nội dung, chỉ nhắc tới cuộc trao đổi trước đó với 'anh Nam'.<br>- **Nhãn gợi ý:** `Chưa xác định` · Ưu tiên `P3 - Thường`<br>- **Độ tự tin:** `25%` *(< 85%)*<br>- **Luồng xử lý:** Kích hoạt **Fallback** đẩy thẳng vào hàng đợi mặc định để điều phối viên xử lý tay và tự động nhắn người gửi mô tả rõ nội dung cần hỗ trợ. | - **TC1 (Accuracy):** Đạt (Không đoán bừa nhãn khi thông tin bằng 0).<br>- **TC2 (Missing Info):** Đạt (Phát hiện 100% thiếu ngữ cảnh).<br>- **TC3 (Latency):** Đạt (< 2s).<br>- **TC4 (Boundary):** Đạt (**Tuân thủ tuyệt đối nguyên tắc không bịa/đoán mò, kích hoạt Fallback an toàn**). |
+| **10** | **[Form sự cố]** *"Bóng đèn tuýp ngay trên bàn làm việc dãy B tầng 2 bị nhấp nháy liên tục nhìn rất mỏi mắt, nhờ bên mình báo kỹ thuật tòa nhà thay giúp."* | - **Đủ thông tin:** `Có`<br>- **Tóm tắt:** Đèn chiếu sáng tại dãy B tầng 2 bị nhấp nháy cần báo kỹ thuật tòa nhà thay mới.<br>- **Nhãn gợi ý:** Bộ phận `Hành chính - Văn phòng` · Ưu tiên `P3 - Thường`<br>- **Độ tự tin:** `96%`<br>- **Luồng xử lý:** Điền sẵn nhãn `Hành chính` + `P3` để Điều phối viên bấm duyệt 1-click chuyển bộ phận Hành chính làm việc với Ban quản lý tòa nhà. | - **TC1 (Accuracy):** Đạt (Phân biệt đúng 'kỹ thuật tòa nhà/điện chiếu sáng' thuộc `Hành chính`, không nhầm sang `IT`).<br>- **TC2 (Missing Info):** Đạt (Đã đủ vị trí dãy B tầng 2 và hiện tượng).<br>- **TC3 (Latency):** Đạt (< 2s).<br>- **TC4 (Boundary):** Đạt (Điền sẵn gợi ý chờ điều phối viên bấm duyệt). |
 
 ---
 
