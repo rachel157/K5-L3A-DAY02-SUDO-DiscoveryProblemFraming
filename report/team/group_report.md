@@ -3,7 +3,10 @@
 > Bản chung của nhóm, viết trên repo do nhóm trưởng fork. Không copy file này sang repo cá nhân.
 > Template chi tiết và prompt mẫu: [docs/01-worksheet.md](../../docs/01-worksheet.md). Bài mẫu: [docs/02-deliverable-example.md](../../docs/02-deliverable-example.md).
 
-## 1. Thông tin nhóm
+## 1. Thông tin nhóm — Điều phối chung: Phạm Việt Hưng (Nhóm trưởng)
+
+> **Điều phối chung:** **Phạm Việt Hưng** (MSSV: `2A202603370` — Nhóm trưởng)  
+> **Người đề xuất đề tài được chọn:** **Phạm Công Dũng** (MSSV: `2A202603428` — Candidate Problem #7 / Cluster A)
 
 - Tên nhóm: **SUDO**
 - Thành viên: xem [`TEAM.md`](../../TEAM.md) (*Phạm Việt Hưng, Chu Mai Hồng, Phạm Công Dũng, Nguyễn Huy Hoàng*)
@@ -13,9 +16,10 @@
 
 ---
 
-## 2. Hội tụ nhóm (CP3)
+## 2. Hội tụ nhóm (CP3) — Phụ trách chính: Phạm Việt Hưng
 
-*Phụ trách chính: Phạm Việt Hưng (2A202603370)*
+> **Người phụ trách chính:** **Phạm Việt Hưng** (MSSV: `2A202603370`)  
+> **Thành viên tham gia:** Chu Mai Hồng, Phạm Công Dũng, Nguyễn Huy Hoàng (cùng Pitch & phản biện chéo)
 
 ### 2.1. Pitch
 
@@ -118,11 +122,14 @@ Bảng chấm điểm theo 7 tiêu chí (thang điểm 1–5):
 
 ---
 
-## 3. Kiểm chứng + research giải pháp đã có (CP4)
+## 3. Kiểm chứng + research giải pháp đã có (CP4) — Phụ trách chính: Phạm Công Dũng & Nguyễn Huy Hoàng
 
-### 3.1. Assumption Map
+> **Người phụ trách chính:** **Phạm Công Dũng** (Mục 3.1 & 3.2) & **Nguyễn Huy Hoàng** (Mục 3.3)  
+> **Người hỗ trợ:** Chu Mai Hồng (Hỗ trợ phỏng vấn), Phạm Việt Hưng (Hỗ trợ review research)
 
-*Phụ trách chính: Phạm Công Dũng (2A202603428)*
+### 3.1. Assumption Map — Phụ trách chính: Phạm Công Dũng
+
+> **Người phụ trách chính:** **Phạm Công Dũng** (MSSV: `2A202603428`)
 
 Bảng 5 giả định rủi ro cốt lõi của bài toán theo phương pháp David Bland (*Testing Business Ideas*):
 
@@ -138,9 +145,10 @@ Bảng 5 giả định rủi ro cốt lõi của bài toán theo phương pháp 
 
 ---
 
-### 3.2. Kiểm chứng
+### 3.2. Kiểm chứng thực tế (The Mom Test) — Phụ trách chính: Phạm Công Dũng
 
-*Phụ trách chính: Phạm Công Dũng (2A202603428)*
+> **Người phụ trách chính:** **Phạm Công Dũng** (MSSV: `2A202603428`)  
+> **Người hỗ trợ:** Chu Mai Hồng (MSSV: `2A202603377`)
 
 **Cách đã dùng:**
 - Thực hiện phỏng vấn sâu 3 nhân sự vận hành/helpdesk theo đúng phương pháp **The Mom Test** (Rob Fitzpatrick): hỏi về hành vi quá khứ, chuyện cụ thể đã xảy ra và chi phí thời gian/công sức thật, tuyệt đối không hỏi câu hỏi tương lai hay xin lời khen về ý tưởng.
@@ -173,9 +181,10 @@ Bảng 5 giả định rủi ro cốt lõi của bài toán theo phương pháp 
 
 ---
 
-### 3.3. Research giải pháp đã có
+### 3.3. Research giải pháp đã có — Phụ trách chính: Nguyễn Huy Hoàng
 
-*Phụ trách chính: Nguyễn Huy Hoàng (2A202603366)*
+> **Người phụ trách chính:** **Nguyễn Huy Hoàng** (MSSV: `2A202603366`)  
+> **Người hỗ trợ:** Phạm Việt Hưng (MSSV: `2A202603370`)
 
 | Công cụ / case / pattern | Link | Giải bước nào trong quy trình? | Điểm mạnh | Khoảng trống / rủi ro | Bài học cho nhóm |
 |---|---|---|---|---|---|
@@ -189,9 +198,10 @@ Thị trường đã có sẵn các mô hình phân loại ticket rất mạnh, 
 
 ---
 
-## 4. Quy trình trước/sau (CP5)
+## 4. Quy trình trước/sau (CP5) — Phụ trách chính: Chu Mai Hồng
 
-*Phụ trách chính: Chu Mai Hồng (2A202603377)*
+> **Người phụ trách chính:** **Chu Mai Hồng** (MSSV: `2A202603377`)  
+> **Người hỗ trợ:** Phạm Việt Hưng (MSSV: `2A202603370`)
 
 ### 4.1. Quy trình hiện tại
 
@@ -221,8 +231,8 @@ Bảng phân tích chi tiết từng bước trong quy trình hiện tại:
 | 2 | Điều phối viên | Mô tả tự do | Hiểu nội dung, nhận ra còn thiếu gì | ~1.0 phút | **Bottleneck 1** |
 | 3 | Điều phối viên, người gửi | Yêu cầu thiếu thông tin | Thông tin bổ sung | ~0.8 phút (trung bình trên mọi yêu cầu) | **Bottleneck 2**; ~25% yêu cầu phải hỏi lại |
 | 4 | Điều phối viên | Yêu cầu đã đủ thông tin | Nhãn bộ phận (IT/HR/Admin) và mức ưu tiên | ~0.7 phút | **Bottleneck 3**; ~12% bị chuyển nhầm |
-| 5 | Điều phối viên | Yêu cầu đã phân loại | Yêu cầu nằm ở đúng hàng đợi bộ phận | ~0.3 phút | |
-| 6 | Điều phối viên, bộ phận xử lý | Yêu cầu đang xử lý | Yêu cầu được đóng | ~0.4 phút | |
+| 5 | Điều phối viên | Yêu cầu đã phân loại | Yêu cầu nằm ở đúng hàng đợi bộ phận | ~0.3 phút | Chuyển thủ công sang nhóm chuyên môn |
+| 6 | Điều phối viên, bộ phận xử lý | Yêu cầu đang xử lý | Yêu cầu được đóng | ~0.4 phút | Cập nhật trạng thái và báo lại người gửi |
 
 - **Tổng thời gian:** **3.5 phút/yêu cầu**, khoảng **105 phút/ngày** (với 30 yêu cầu/ngày). Bước 2–4 chiếm tới **2.5 phút**.
 - **Bottleneck chính:** Bước 2, 3 và 4. Điều phối viên phải đọc hiểu mô tả tự do thiếu thông tin, nhắn hỏi lại người gửi, rồi phân loại bộ phận và mức ưu tiên bằng tay.
@@ -268,9 +278,10 @@ Các thành phần kiểm soát trong quy trình mới:
 
 ---
 
-## 5. Problem Statement v0 (CP5)
+## 5. Problem Statement v0 (CP5) — Phụ trách chính: Phạm Công Dũng
 
-*Phụ trách chính: Phạm Công Dũng (2A202603428)*
+> **Người phụ trách chính:** **Phạm Công Dũng** (MSSV: `2A202603428`)  
+> **Người hỗ trợ:** Phạm Việt Hưng (MSSV: `2A202603370` — Hỗ trợ phản biện lỗ hổng)
 
 Bảng Problem Statement v0 đủ 6 trường cốt lõi theo khung Lean UX & Google PAIR:
 
@@ -291,9 +302,10 @@ Bảng Problem Statement v0 đủ 6 trường cốt lõi theo khung Lean UX & Go
 
 ---
 
-## 6. Mức can thiệp AI (CP6)
+## 6. Mức can thiệp AI (CP6) — Phụ trách chính: Chu Mai Hồng
 
-*Phụ trách chính: Chu Mai Hồng (2A202603377)*
+> **Người phụ trách chính:** **Chu Mai Hồng** (MSSV: `2A202603377`)  
+> **Người hỗ trợ:** Phạm Công Dũng (MSSV: `2A202603428`)
 
 ### 6.1. Ma trận độ mơ hồ × độ phức tạp
 
@@ -349,9 +361,10 @@ Bài toán của nhóm được định vị tại ô: **Độ mơ hồ cao ở 
 
 ---
 
-## 7. Problem Statement v1 + tiêu chí đánh giá (CP6)
+## 7. Problem Statement v1 + tiêu chí đánh giá (CP6) — Phụ trách chính: Nguyễn Huy Hoàng
 
-*Phụ trách chính: Nguyễn Huy Hoàng (2A202603366)*
+> **Người phụ trách chính:** **Nguyễn Huy Hoàng** (MSSV: `2A202603366`)  
+> **Người hỗ trợ:** Phạm Việt Hưng (MSSV: `2A202603370`)
 
 ### 7.1. Bảng Problem Statement v1
 
@@ -390,9 +403,10 @@ Bài toán của nhóm được định vị tại ô: **Độ mơ hồ cao ở 
 
 ---
 
-## 8. Quyết định (CP6)
+## 8. Quyết định (CP6) — Phụ trách chính: Phạm Việt Hưng
 
-*Phụ trách chính: Phạm Việt Hưng (2A202603370)*
+> **Người phụ trách chính:** **Phạm Việt Hưng** (MSSV: `2A202603370`)  
+> **Thành viên đồng thuận:** Chu Mai Hồng, Phạm Công Dũng, Nguyễn Huy Hoàng
 
 ### 8.1. Bốn rủi ro sản phẩm (Marty Cagan, SVPG)
 
@@ -432,9 +446,9 @@ Bài toán của nhóm được định vị tại ô: **Độ mơ hồ cao ở 
 
 ---
 
-## 9. Hạn chế và hướng tiếp theo
+## 9. Hạn chế và hướng tiếp theo — Phụ trách chính: Phạm Việt Hưng
 
-*Phụ trách chính: Phạm Việt Hưng (2A202603370)*
+> **Người phụ trách chính:** **Phạm Việt Hưng** (MSSV: `2A202603370`)
 
 ### 9.1. Hạn chế hiện tại của bài phân tích
 1. **Cỡ mẫu kiểm chứng còn nhỏ:** Số liệu baseline (`3.5 phút/yêu cầu`, `25% thiếu thông tin`, `12% chuyển nhầm`) và kết quả phỏng vấn ở CP4 mới thu thập trên phạm vi 3 cuộc phỏng vấn sâu và 6 mẫu khảo sát trong buổi lab; cần đo log thực tế liên tục trong 2 tuần Pilot để có phân phối chính xác theo từng khung giờ cao điểm.
@@ -448,9 +462,9 @@ Bài toán của nhóm được định vị tại ô: **Độ mơ hồ cao ở 
 
 ---
 
-## 10. Tài liệu tham khảo
+## 10. Tài liệu tham khảo — Phụ trách chính: Nguyễn Huy Hoàng
 
-*Phụ trách chính: Nguyễn Huy Hoàng (2A202603366)*
+> **Người phụ trách chính:** **Nguyễn Huy Hoàng** (MSSV: `2A202603366`)
 
 1. Fitzpatrick, R. (2013). *The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you*. Founder Centric.
 2. Torres, T. (2021). *Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value*. Product Talk LLC.

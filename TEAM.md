@@ -13,9 +13,9 @@
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
 | 1 | Phạm Việt Hưng | 2A202603370 | **Nhóm trưởng**, Điều phối chung, Phụ trách CP3 (Hội tụ nhóm, Pitch 12 cards, gom Cluster, Cây OST, Shortlist) & CP6 (Đánh giá 4 rủi ro, Quyết định Go/Not Yet/No-Go, Pilot 2 tuần, 3 Ngưỡng dừng, Hạn chế & Hướng tiếp theo) | `rachel157` |
-| 2 | Chu Mai Hồng | 2A202603377 | Phụ trách CP5 (Quy trình trước/sau: sơ đồ Hiện tại, Tương lai, Before/After) & CP6 (Phân tích mức can thiệp AI: Ma trận Mơ hồ × Phức tạp, So sánh 4 mức, AI Canvas rút gọn, Google PAIR & Fallback) | *(Chu Mai Hồng)* |
-| 3 | Phạm Công Dũng | 2A202603428 | **Người đề xuất đề tài được chọn (Card #7 / Cluster A)**; Phụ trách CP4 (Lập Assumption Map 5 giả định, Phỏng vấn kiểm chứng The Mom Test) & CP5 (Viết Problem Statement v0) | *(Phạm Công Dũng)* |
-| 4 | Nguyễn Huy Hoàng | 2A202603366 | Phụ trách CP4 (Research 4 giải pháp thị trường có sẵn: Jira, Zendesk, Freshservice, n8n) & CP6 (Viết Problem Statement v1, Bảng so sánh v0→v1, 4 Tiêu chí Eval) & CP6 (Tài liệu tham khảo Mục 10) | *(Nguyễn Huy Hoàng)* |
+| 2 | Chu Mai Hồng | 2A202603377 | Phụ trách CP5 (Quy trình trước/sau: sơ đồ Hiện tại, Tương lai, Before/After) & CP6 (Phân tích mức can thiệp AI: Ma trận Mơ hồ × Phức tạp, So sánh 4 mức, AI Canvas rút gọn, Google PAIR & Fallback) | `maihong1208` |
+| 3 | Phạm Công Dũng | 2A202603428 | **Người đề xuất đề tài được chọn (Card #7 / Cluster A)**; Phụ trách CP4 (Lập Assumption Map 5 giả định, Phỏng vấn kiểm chứng The Mom Test) & CP5 (Viết Problem Statement v0) | `dungpham108` |
+| 4 | Nguyễn Huy Hoàng | 2A202603366 | Phụ trách CP4 (Research 4 giải pháp thị trường có sẵn: Jira, Zendesk, Freshservice, n8n) & CP6 (Viết Problem Statement v1, Bảng so sánh v0→v1, 4 Tiêu chí Eval) & CP6 (Tài liệu tham khảo Mục 10) | `nguyen-huy-hoang-1708` |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
